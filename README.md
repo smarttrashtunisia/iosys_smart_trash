@@ -16,6 +16,7 @@ git clone https://github.com/smarttrashtunisia/iosys_smart_trash.git
 #### 2) Install packages
 ```
 cd api
+mkdir public && mkdir uploads
 npm install
 cd ../frontend
 npm install
